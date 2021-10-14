@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bill21543
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m not looking to collaborate on anything at the moment
 - 📫 A way you can reach me is on discord, my account name is bill2#8250
 
 
